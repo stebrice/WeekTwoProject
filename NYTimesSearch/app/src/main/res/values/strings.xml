@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NY Times Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_query">Enter search query</string>
+    <string name="search">Search</string>
+    <string name="NYTS_API_KEY">8f7a444e24a8458e98276771d27e52fd</string>
+    <string name="title_activity_article">Details</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="sort_order_prompt">Select a sort order</string>
+    <string name="filter">Filter</string>
+    <string-array name="sort_order">
+        <item>-------</item>
+        <item>oldest</item>
+        <item>newest</item>
+    </string-array>
+
+    <string name="date_filter_text">Pick date</string>
+    <string name="cb_arts_filter_text">Arts</string>
+    <string name="cb_fashion_filter_text">Fashion And Style</string>
+    <string name="cb_sports_filter_text">Sports</string>
+</resources>
